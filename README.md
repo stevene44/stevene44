@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Steve.
+## Hi there 👋 I'm Steve.
 
+### I’m currently learning Python, Data Science and Analysis.
 <!--
 **stevene44/stevene44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
